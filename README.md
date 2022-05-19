@@ -14,12 +14,12 @@ Towers, homes, and other structures were destroyed. In fact, it is estimated tha
 
 These reports of structural loss following the earthquake are consistent with loss from other similar events. Structures, buildings, and homes can be damaged when the seismic motion of the tectonic plates causes waves significant enough to wreck anything on the ground surface. This can include bridges, towers, dams, residential homes, power lines, and resource stations (like water treatment centers). Because of this significant loss, larger earthquakes are often devastating. Earthquakes can also cause other natural disasters like floods, tsunamis, avalanches, sinkholes, landslides, and fires. Again, all of which can contribute to further structural loss. 
 
-* [*Source: Driven Data*]('https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/')
-* [*2015 Nepal Earthquake Portal*]('http://eq2015.npc.gov.np/#/')
-* [*Raw Data Download*]('http://eq2015.npc.gov.np/#/download')
-* [*Source: Gorkha Earthquake*]('https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake')
-* [*Source: Gorkha District*]('https://en.wikipedia.org/wiki/Gorkha_District')
-* [*Source: Britannica, Nepal Earthquake*]('https://www.britannica.com/topic/Nepal-earthquake-of-2015')
+* [*Source: Driven Data*](https://www.drivendata.org/competitions/57/nepal-earthquake/page/135/)
+* [Source: *2015 Nepal Earthquake Portal*](http://eq2015.npc.gov.np/#/)
+* [Source: *Raw Data Download*](http://eq2015.npc.gov.np/#/download)
+* [*Source: Gorkha Earthquake*](https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake)
+* [*Source: Gorkha District*](https://en.wikipedia.org/wiki/Gorkha_District)
+* [*Source: Britannica, Nepal Earthquake*](https://www.britannica.com/topic/Nepal-earthquake-of-2015)
 
 
 ## Problem Statement
